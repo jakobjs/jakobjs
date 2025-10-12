@@ -1,0 +1,58 @@
+[
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 3 times)\n2. my-badges.yaml (used once)\n3. update (used once)\n4. readme (used once)\n5. initial (used once)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/hashicorp/vagrant/issues/12155#issuecomment-766922724\">🚀</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/jakobjs/dotfiles\">jakobjs/dotfiles</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/jakobjs/jakobjs/commit/1aba546fa5be150605843dc64d62f1bf88b56fd0\">1aba546</a>\n- <a href=\"https://github.com/jakobjs/jakobjs/commit/f8a5a5b5d74c026e52104cdcb7bdd3da102d3ad9\">f8a5a5b</a>\n- <a href=\"https://github.com/jakobjs/jakobjs/commit/7d018267ce6845f23f6e9822ca2681281629dc4b\">7d01826</a>\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/ffc31291225b01e3f195bd0c805ef0a3f309ca98\">ffc3129</a>\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/435483b93c716f57416d557a211fe127caa8d13e\">435483b</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
