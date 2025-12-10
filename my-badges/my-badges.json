@@ -47,5 +47,12 @@
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/jakobjs/jakobjs/commit/1aba546fa5be150605843dc64d62f1bf88b56fd0\">1aba546</a>\n- <a href=\"https://github.com/jakobjs/jakobjs/commit/f8a5a5b5d74c026e52104cdcb7bdd3da102d3ad9\">f8a5a5b</a>\n- <a href=\"https://github.com/jakobjs/jakobjs/commit/7d018267ce6845f23f6e9822ca2681281629dc4b\">7d01826</a>\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/ffc31291225b01e3f195bd0c805ef0a3f309ca98\">ffc3129</a>\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/435483b93c716f57416d557a211fe127caa8d13e\">435483b</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/jakobjs/dotfiles\">jakobjs/dotfiles</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
