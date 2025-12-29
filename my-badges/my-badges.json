@@ -54,5 +54,26 @@
     "desc": "I've starred 1 my own repositories.",
     "body": "- <a href=\"https://github.com/jakobjs/dotfiles\">jakobjs/dotfiles</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "old-issue-2",
+    "tier": 2,
+    "desc": "I closed an issue that was open for 2 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/hashicorp/vagrant/issues/12155\">#12155</a>: Unable to use Ansible provisioner on Ubuntu 20.04 via pip install mode",
+    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
+  },
+  {
+    "id": "old-issue-3",
+    "tier": 3,
+    "desc": "I closed an issue that was open for 3 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/xwmx/bash-boilerplate/issues/6\">#6</a>: Require at least one argument?",
+    "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
+  },
+  {
+    "id": "old-issue-8",
+    "tier": 8,
+    "desc": "I closed an issue that was open for 8 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/bmatzelle/gow/issues/168\">#168</a>: thttpd",
+    "image": "https://my-badges.github.io/my-badges/old-issue-8.png"
   }
 ]
