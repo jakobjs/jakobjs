@@ -49,13 +49,6 @@
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 1 my own repositories.",
-    "body": "- <a href=\"https://github.com/jakobjs/dotfiles\">jakobjs/dotfiles</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
     "id": "old-issue-2",
     "tier": 2,
     "desc": "I closed an issue that was open for 2 years",
