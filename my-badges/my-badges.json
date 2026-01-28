@@ -9,8 +9,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 3 times)\n2. my-badges.yaml (used once)\n3. update (used once)\n4. readme (used once)\n5. initial (used once)",
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 5 times)\n2. add (used 3 times)\n3. create (used 3 times)\n4. readme.md (used 2 times)\n5. .zshrc (used 2 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -45,7 +45,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/jakobjs/jakobjs/commit/1aba546fa5be150605843dc64d62f1bf88b56fd0\">1aba546</a>\n- <a href=\"https://github.com/jakobjs/jakobjs/commit/f8a5a5b5d74c026e52104cdcb7bdd3da102d3ad9\">f8a5a5b</a>\n- <a href=\"https://github.com/jakobjs/jakobjs/commit/7d018267ce6845f23f6e9822ca2681281629dc4b\">7d01826</a>\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/ffc31291225b01e3f195bd0c805ef0a3f309ca98\">ffc3129</a>\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/435483b93c716f57416d557a211fe127caa8d13e\">435483b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/0dac2c2ccf42aa3059119697ada01088dd1c4907\">0dac2c2</a>\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/6a4ae289e8080b18e1c8aa537f802692c83a5eff\">6a4ae28</a>\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/ab40fd665da90c856a4bdfa0729f2ae1aa609ee1\">ab40fd6</a>\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/9f5114becaf2f8743abad2fcec7662a242297c51\">9f5114b</a>\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/042d3e6e572c0b6a435cd7e50d4f906d112665b1\">042d3e6</a>\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/2ebc68b8b0a789e5e83fba273de5a686e5a94577\">2ebc68b</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -75,5 +75,12 @@
     "desc": "I've starred 1 my own repositories.",
     "body": "- <a href=\"https://github.com/jakobjs/dotfiles\">jakobjs/dotfiles</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/jakobjs/dotfiles/commit/ab40fd665da90c856a4bdfa0729f2ae1aa609ee1\"><strong>ab</strong>40fd665da90c856a4bdfa0729f2ae1aa609ee1</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   }
 ]
