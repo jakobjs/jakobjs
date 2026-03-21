@@ -9,8 +9,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 5 times)\n2. add (used 3 times)\n3. create (used 3 times)\n4. readme.md (used 2 times)\n5. .zshrc (used 2 times)",
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 5 times)\n2. update (used 5 times)\n3. create (used 3 times)\n4. docker (used 2 times)\n5. build (used 2 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -45,7 +45,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/0dac2c2ccf42aa3059119697ada01088dd1c4907\">0dac2c2</a>\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/6a4ae289e8080b18e1c8aa537f802692c83a5eff\">6a4ae28</a>\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/ab40fd665da90c856a4bdfa0729f2ae1aa609ee1\">ab40fd6</a>\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/9f5114becaf2f8743abad2fcec7662a242297c51\">9f5114b</a>\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/042d3e6e572c0b6a435cd7e50d4f906d112665b1\">042d3e6</a>\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/2ebc68b8b0a789e5e83fba273de5a686e5a94577\">2ebc68b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/jakobjs/hello-server/commit/b7938253aa355b57ac10e5861f84073c9952ea25\">b793825</a>\n- <a href=\"https://github.com/jakobjs/hello-server/commit/d66f3abf2ab3e87c852f1de09d0b35449ec66ae4\">d66f3ab</a>\n- <a href=\"https://github.com/jakobjs/hello-server/commit/5cce86b2727f8672d47014c214fd1bcae203e21f\">5cce86b</a>\n- <a href=\"https://github.com/jakobjs/hello-server/commit/cee0f1e81c71e2264e416919dc1d70f36af3dc80\">cee0f1e</a>\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/0dac2c2ccf42aa3059119697ada01088dd1c4907\">0dac2c2</a>\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/6a4ae289e8080b18e1c8aa537f802692c83a5eff\">6a4ae28</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -82,5 +82,12 @@
     "desc": "I've starred 1 my own repositories.",
     "body": "- <a href=\"https://github.com/jakobjs/dotfiles\">jakobjs/dotfiles</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/jakobjs/hello-server/commit/7fcef5facaf07ff0cf82524a8d01fb013d378193\">7fcef5f</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   }
 ]
