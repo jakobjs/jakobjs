@@ -77,13 +77,6 @@
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 1 my own repositories.",
-    "body": "- <a href=\"https://github.com/jakobjs/dotfiles\">jakobjs/dotfiles</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
