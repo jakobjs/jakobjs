@@ -7,13 +7,6 @@
     "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 5 times)\n2. update (used 5 times)\n3. create (used 3 times)\n4. docker (used 2 times)\n5. build (used 2 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
@@ -35,13 +28,6 @@
     "image": "https://my-badges.github.io/my-badges/self-upvote.png"
   },
   {
-    "id": "evening-commits",
-    "tier": 0,
-    "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/jakobjs/hello-server/commit/b7938253aa355b57ac10e5861f84073c9952ea25\">b793825</a>\n- <a href=\"https://github.com/jakobjs/hello-server/commit/d66f3abf2ab3e87c852f1de09d0b35449ec66ae4\">d66f3ab</a>\n- <a href=\"https://github.com/jakobjs/hello-server/commit/5cce86b2727f8672d47014c214fd1bcae203e21f\">5cce86b</a>\n- <a href=\"https://github.com/jakobjs/hello-server/commit/cee0f1e81c71e2264e416919dc1d70f36af3dc80\">cee0f1e</a>\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/0dac2c2ccf42aa3059119697ada01088dd1c4907\">0dac2c2</a>\n- <a href=\"https://github.com/jakobjs/dotfiles/commit/6a4ae289e8080b18e1c8aa537f802692c83a5eff\">6a4ae28</a>",
-    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
-  },
-  {
     "id": "old-issue-2",
     "tier": 2,
     "desc": "I closed an issue that was open for 2 years",
@@ -61,19 +47,5 @@
     "desc": "I closed an issue that was open for 8 years",
     "body": "Issues:\n\n- <a href=\"https://github.com/bmatzelle/gow/issues/168\">#168</a>: thttpd",
     "image": "https://my-badges.github.io/my-badges/old-issue-8.png"
-  },
-  {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/jakobjs/dotfiles/commit/ab40fd665da90c856a4bdfa0729f2ae1aa609ee1\"><strong>ab</strong>40fd665da90c856a4bdfa0729f2ae1aa609ee1</a>",
-    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
-    "id": "midnight-commits",
-    "tier": 0,
-    "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/jakobjs/hello-server/commit/7fcef5facaf07ff0cf82524a8d01fb013d378193\">7fcef5f</a>",
-    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   }
 ]
